@@ -11,7 +11,7 @@ const props = defineProps({
 const route = useRoute();
 
 // Image placeholder
-const imagePlaceholder = "/img/categories/placeholder.jpg";
+const imagePlaceholder = "./img/categories/placeholder.jpg";
 
 // Function to replace broken image with a placeholder
 function replaceImgByDefault(e) {

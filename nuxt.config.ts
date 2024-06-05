@@ -33,7 +33,7 @@ export default defineNuxtConfig({
           rel: 'icon',
           type: 'image/png',
           sizes: '16x16',
-          href: '/favicon.png'
+          href: './favicon.png'
         },
         {
           rel: 'manifest',
@@ -41,7 +41,7 @@ export default defineNuxtConfig({
         },
         {
           rel: 'mask-icon',
-          href: '/favicon.png',
+          href: './favicon.png',
           color: '#f2bb2d',
         },
       ],

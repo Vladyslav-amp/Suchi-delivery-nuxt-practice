@@ -9,7 +9,7 @@ const props = defineProps({
 
 
 // Image placeholder
-const imagePlaceholder = "/img/products/placeholder.jpg";
+const imagePlaceholder = "../img/products/placeholder.jpg";
 
 // Function to replace broken image with a placeholder
 function replaceImgByDefault(e) {
