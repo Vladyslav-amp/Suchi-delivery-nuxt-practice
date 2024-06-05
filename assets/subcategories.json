@@ -1,0 +1,72 @@
+[
+  {
+    "id": "1",
+    "category_id": "1",
+    "category_slug": "rolls",
+    "title": "classic rolls",
+    "slug": "classic-rolls",
+    "description": "classic-rolls",
+    "sort_weight": "50",
+    "image": "/img/subcategories/1/1.jpg"
+  },
+  {
+    "id": "2",
+    "category_id": "1",
+    "category_slug": "rolls",
+    "title": "specialty rolls",
+    "slug": "specialty-rolls",
+    "description": "specialty-rolls",
+    "sort_weight": "50",
+    "image": "/img/subcategories/2/2.jpg"
+  },
+  {
+    "id": "3",
+    "category_id": "1",
+    "category_slug": "rolls",
+    "title": "cold rolls",
+    "slug": "cold-rolls",
+    "description": "cold-rolls",
+    "sort_weight": "50",
+    "image": "/img/subcategories/3/3.jpg"
+  },
+  {
+    "id": "4",
+    "category_id": "1",
+    "category_slug": "rolls",
+    "title": "baked rolls",
+    "slug": "baked-rolls",
+    "description": "baked-rolls",
+    "sort_weight": "50",
+    "image": "/img/subcategories/4/4.jpg"
+  },
+  {
+    "id": "5",
+    "category_id": "1",
+    "category_slug": "rolls",
+    "title": "tempura rolls",
+    "slug": "tempura-rolls",
+    "description": "tempura-rolls",
+    "sort_weight": "50",
+    "image": "/img/subcategories/5/5.jpg"
+  },
+  {
+    "id": "6",
+    "category_id": "1",
+    "category_slug": "rolls",
+    "title": "sets",
+    "slug": "sets",
+    "description": "sets",
+    "sort_weight": "50",
+    "image": "/img/subcategories/6/6.jpg"
+  },
+  {
+    "id": "7",
+    "category_id": "3",
+    "category_slug": "sause",
+    "title": "sause",
+    "slug": "sause",
+    "description": "sause",
+    "sort_weight": "50",
+    "image": "/img/subcategories/8/8.jpg"
+  }
+]

@@ -1,0 +1,18 @@
+[
+	{
+		"id": "1",
+		"title": "sushi Rolls",
+		"slug": "rolls",
+		"description": "classic rolls, specialty rolls, холодные роллы, cold rolls, tempura rolls, sets",		
+		"sort_weight": "1",
+		"image": "/img/categories/1/rolls.svg"
+	},
+	{
+		"id": "2",
+		"title": "sause",
+		"slug": "sause",
+		"description": "soy sauce, caesar sauce, garlic sauce, unagi sauce, spice sauce, cheese sauce, barbecue sauce, nut sauce, ketchup, sweet and sour sauce.",		
+		"sort_weight": "3",
+		"image": "/img/categories/3/sauces.svg"
+	}
+]
