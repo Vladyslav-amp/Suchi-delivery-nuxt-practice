@@ -53,5 +53,7 @@ export default defineNuxtConfig({
 
     },
 
+    baseURL: '/suchi-delivery-nuxt-practice/',
+    buildAssetsDir: 'assets',
   }
 })
